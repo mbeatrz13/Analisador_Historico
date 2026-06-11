@@ -1,4 +1,4 @@
-#!C:\Users\mbeat\Desktop\uern\historico\.venv\Scripts\python.exe
+#!C:\Users\mariaeduarda.rsilva\Documents\Projects\Analisador_Historico\.venv\Scripts\python.exe
 """A command line tool for extracting text and images from PDF and
 output it to plain text, html, xml or tags.
 """

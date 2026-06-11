@@ -1,4 +1,4 @@
-#!C:\Users\mbeat\Desktop\uern\historico\.venv\Scripts\python.exe
+#!C:\Users\mariaeduarda.rsilva\Documents\Projects\Analisador_Historico\.venv\Scripts\python.exe
 """Extract pdf structure in XML format"""
 
 import logging
