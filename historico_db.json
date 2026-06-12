@@ -1,0 +1,98 @@
+[
+  {
+    "data_analise": "2026-06-11 20:25:07",
+    "arquivo": "C:/Users/mariaeduarda.rsilva/Downloads/historico_20230019323.pdf",
+    "nome": "GEYSLAINE ANGELO DANTAS DE MORAIS",
+    "matricula": "20230019323",
+    "curso": "CIENCIA DA COMPUTAÇÃO/CAN-DCAN - NATAL - BACHARELADO - PRESENCIAL - MT",
+    "status": "ATIVO",
+    "ira": "8.1458",
+    "periodo_inicial": "2023.1",
+    "periodo_atual": "7",
+    "valido": true,
+    "total_erros": 0,
+    "erros_lexicos": [],
+    "erros_sintaticos": [],
+    "erros_semanticos": [],
+    "avisos": [],
+    "componentes": [],
+    "pendentes": [
+      {
+        "codigo": "NCC0129",
+        "nome": "Projeto de Trabalho de Conclusão de Curso (08051241)",
+        "ch": "60 h"
+      },
+      {
+        "codigo": "UCE0027",
+        "nome": "UNIDADE CURRICULAR DE EXTENSÃO-UCE",
+        "ch": "60 h"
+      },
+      {
+        "codigo": "NCC0127",
+        "nome": "Teoria Geral de Administração e Empreendedorismo (08051221)",
+        "ch": "60 h"
+      },
+      {
+        "codigo": "NCC0238",
+        "nome": "Compiladores (08052481)",
+        "ch": "60 h"
+      },
+      {
+        "codigo": "NCC0239",
+        "nome": "Processamento de Imagem e Visão Computacional (08052491)",
+        "ch": "60 h"
+      },
+      {
+        "codigo": "NCC0240",
+        "nome": "Programação Paralela (08052501)",
+        "ch": "30 h"
+      },
+      {
+        "codigo": "CAN0075",
+        "nome": "TRABALHO DE CONCLUSÃO DE CURSO (08052511)",
+        "ch": "120 h"
+      },
+      {
+        "codigo": "ENADE",
+        "nome": "ENADE INGRESSANTE PENDENTE",
+        "ch": "0 h"
+      },
+      {
+        "codigo": "ENADE",
+        "nome": "ENADE CONCLUINTE PENDENTE",
+        "ch": "0 h"
+      }
+    ]
+  },
+  {
+    "data_analise": "2026-06-11 20:33:44",
+    "arquivo": "C:/Users/mariaeduarda.rsilva/Downloads/historico_20203004889.pdf",
+    "nome": "LUCAS GABRIEL SILVA DE OLIVEIRA",
+    "matricula": "20203004889",
+    "curso": "CURSO TÉCNICO DA METRÓPOLE DIGITAL - 900 (MTN) - NATAL - SEMI-PRESENCIAL",
+    "status": "",
+    "ira": "",
+    "periodo_inicial": "2020.1",
+    "periodo_atual": "",
+    "valido": false,
+    "total_erros": 9,
+    "erros_lexicos": [],
+    "erros_sintaticos": [
+      "[Sintático] linha 17: esperado TOKEN_STATUS, encontrado \"2020.1\" (TOKEN_PERIODO_INICIAL)",
+      "[Sintático] Campo 'Status' não encontrado.",
+      "[Sintático] linha 17: esperado TOKEN_IRA, encontrado \"2020.1\" (TOKEN_PERIODO_INICIAL)",
+      "[Sintático] Campo 'IRA' não encontrado.",
+      "[Sintático] linha 20: esperado TOKEN_PERIODO_ATUAL, encontrado \"CONCLUÍDO\" (TOKEN_STATUS)",
+      "[Sintático] Campo 'Período Letivo Atual' não encontrado.",
+      "[Sintático] linha 20: esperado TOKEN_SECAO_COMP, encontrado \"CONCLUÍDO\" (TOKEN_STATUS)",
+      "[Sintático] Seção 'Componentes Curriculares' não encontrada.",
+      "[Sintático] linha 20: esperado TOKEN_LINHA_COMP, encontrado \"CONCLUÍDO\" (TOKEN_STATUS)"
+    ],
+    "erros_semanticos": [],
+    "avisos": [
+      "[Semântico] R03: IRA não encontrado."
+    ],
+    "componentes": [],
+    "pendentes": []
+  }
+]
